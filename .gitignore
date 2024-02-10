@@ -1,0 +1,5 @@
+# Main gitignore file
+*.csv
+.vscode/
+.DS_STORE
+venv/
